@@ -35,7 +35,7 @@ Engineers who monitor services and publish status pages.
 
 ## Patterns (planned)
 
-**Nothing below exists yet.**
+**The examples in the table below do not exist yet.**
 
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|

@@ -35,6 +35,8 @@ Engineers who monitor services and publish status pages.
 
 ## Patterns (planned)
 
+**The examples in the table below do not exist yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-monitor` | HTTP, TCP, and keyword monitors |
